@@ -61,14 +61,6 @@ AWS (EC2, RDS, S3) | Vercel | Git | GitHub | GitLab | Postman | Swagger
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mr-Mudassar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Mudassar&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/muhammad-mudassar776/
